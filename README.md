@@ -2,10 +2,10 @@
 
 <hr>
 
-<p>Formulário de criação de contas para o banco virtual MoniBank.</p>
-<p>Nesse projeto pude me aprofundar nos conceitos de frontend utilizando JS para validação de formulario.</p>
+<p>Account creation form for the virtual bank.</p>
+<p>In this project I was able to delve deeper into frontend concepts using JS for form validation.</p>
 
-## Tecnologias utilizadas nesse projeto conduzida pela Alura:
+## Technologies used in this project led by Alura:
 <div style="display: inline_block">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
